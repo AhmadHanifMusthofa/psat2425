@@ -65,7 +65,7 @@ sudo git clone https://github.com/AhmadHanifMusthofa/psat2425.git /var/www/html
 sudo chmod -R 777 /var/www/html
 echo DB_USER=admin > /var/www/html/.env
 echo DB_PASS=banjarpanepen123  >> /var/www/html/.env
-echo DB_NAME=crudsiswa  >> /var/www/html/.env
+echo DB_NAME=psat2425  >> /var/www/html/.env
 echo DB_HOST=psat2425hanif.cg3nnapme2wd.us-east-1.rds.amazonaws.com >> /var/www/html/.env
 ```
 
